@@ -7,11 +7,8 @@ Features:
 <br>
 1. Preprocesses IMDb movie reviews (removes HTML tags, special characters, stopwords, and applies stemming)
 2. Converts text into numerical representation using Bag of Words (BoW).
-<br>
 3. Trains and compares three Naïve Bayes classifiers: GaussianNB, MultinomialNB, and BernoulliNB.
-<br>
 4. Evaluates model performance using accuracy metrics.
-<br>
 5. Predicts sentiment of new reviews and saves the trained model using pickle.
 <br>
 <br>

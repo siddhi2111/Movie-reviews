@@ -5,8 +5,7 @@ This project implements sentiment analysis on IMDb movie reviews using Naïve Ba
 <br>
 Features:
 <br>
-1. Preprocesses IMDb movie reviews (removes HTML tags, special characters, stopwords, and applies stemming).
-<br>
+1. Preprocesses IMDb movie reviews (removes HTML tags, special characters, stopwords, and applies stemming)
 2. Converts text into numerical representation using Bag of Words (BoW).
 <br>
 3. Trains and compares three Naïve Bayes classifiers: GaussianNB, MultinomialNB, and BernoulliNB.
@@ -28,5 +27,5 @@ Technologies Used:
 <br>
 5. Regular Expressions (re)
 <br>
-Pickle (for model persistence)
+6. Pickle (for model persistence)
 <br>

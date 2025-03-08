@@ -15,9 +15,14 @@ Features:
 Technologies Used:
 <br>
 1. Python
+<br>
 2. Pandas, NumPy
+<br>
 3. Natural Language Toolkit (NLTK)
+<br>
 4. Scikit-Learn (sklearn)
+<br>
 5. Regular Expressions (re)
+<br>
 6. Pickle (for model persistence)
 <br>
